@@ -14,7 +14,7 @@ Index
 * [Dependencies](## Dependencies)
 * [Linux](### Linux)
 * [Windows](### Windows)
-* [Mac](### Mac)
+* [Mac](#Mac)
 
 
 ## Dependencies
