@@ -11,9 +11,9 @@ This Script is cross Functional hence it works on Windos,Linux and Mac
 Index
 -----
 
-* [Dependencies](## Dependencies)
-* [Linux](### Linux)
-* [Windows](### Windows)
+* [Dependencies](# Dependencies)
+* [Linux](#Linux)
+* [Windows](#Windows)
 * [Mac](#Mac)
 
 
