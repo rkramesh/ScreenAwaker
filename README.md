@@ -8,6 +8,14 @@ Unlike other apps like Mouse Jiggler it doesnt require any DotNet Framework.Just
 
 This Script is cross Functional hence it works on Windos,Linux and Mac
 
+Index
+-----
+
+* [Dependencies](## Dependencies)
+* [Linux](### Linux)
+* [Windows](### Windows)
+* [Mac](### Mac)
+
 
 ## Dependencies
 ### Windows
