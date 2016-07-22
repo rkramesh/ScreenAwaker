@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import pyautogui,time
+pyautogui.FAILSAFE = False
 
 def keepAwake():#simple cursor move which keeps screen awake by moving cursor every 59 seconds
     pyautogui.moveRel(10, 0, duration=0.25)
