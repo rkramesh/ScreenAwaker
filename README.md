@@ -15,7 +15,7 @@ Index
 * [Linux](#Linux)
 * [Windows](#Windows)
 * [Mac](#Mac)
-
+-----
 
 Dependencies
 -----
@@ -55,7 +55,7 @@ Once all the Packages are installed install the below python module
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI)
 
-
+-----
 
 
 
