@@ -2,13 +2,14 @@
 import pyautogui,time
 
 def keepAwake():#simple cursor move which keeps screen awake by moving cursor every 59 seconds
-    pyautogui.moveTo(100, 100, duration=1)
-    time.sleep(59)
+    pyautogui.moveRel(10, 0, duration=0.25)
+    time.sleep(5)
+    pyautogui.moveRel(-10, 0, duration=0.25)
 while True:
     keepAwake()
-#the script can be killed by executing'Ctrl + C' in Terminal
-
-'''uncomment the lines to use keepAwakeSqaure 
+#keepAwakeSqaure function t will make a square movement in cursor every 59 seconds similar to keepAwake Function
+#uncomment the lines to use keepAwakeSqaure
+'''
 def keepAwakeSqaure():#this will make a square movement in cursor every 59 seconds
     for i in range(10):
       pyautogui.moveTo(100, 100, duration=0.25)
@@ -18,3 +19,4 @@ def keepAwakeSqaure():#this will make a square movement in cursor every 59 secon
 while True:
     keepAwakeSqaure()
 '''
+#Script can be killed by executing'Ctrl + C' in Terminal
