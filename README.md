@@ -17,11 +17,13 @@ Index
 * [Mac](#Mac)
 
 
-## Dependencies
-### Windows
+Dependencies
+-----
+Windows
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI)
 
-### Linux
+Linux
+-----
 
 ◾On Linux, run  below  commands to install the required Packages
 sudo pip3 install python3-xlib
@@ -36,7 +38,8 @@ Once all the Packages are installed install the below python module
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI)
 
-### Mac
+Mac
+-----
 ◾On Mac run  below  commands to install the required Packages
 
 
