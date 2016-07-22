@@ -16,6 +16,7 @@ def keepAwakeSqaure():#this will make a square movement in cursor every 59 secon
       pyautogui.moveTo(200, 100, duration=0.25)
       pyautogui.moveTo(200, 200, duration=0.25)
       pyautogui.moveTo(100, 200, duration=0.25)
+      time.sleep(59)
 while True:
     keepAwakeSqaure()
 '''
