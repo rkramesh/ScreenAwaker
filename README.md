@@ -1,6 +1,8 @@
 # ScreenAwaker
 Keep your screen alive during presentations or while watching Movies to avoid embarrassing hibernation mode
 
+![windows-7-locked](https://cloud.githubusercontent.com/assets/12068512/17173034/06196e5c-5416-11e6-8cf3-1f5bfc480004.jpg)
+
 It doesnt require any adminstration access ..Seriously !
 
 Unlike other apps like Mouse Jiggler it doesnt require any DotNet Framework.Just python and some modules which you dont find difficult to install
