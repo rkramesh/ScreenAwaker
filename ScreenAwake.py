@@ -1,18 +1,13 @@
 #!/usr/bin/python
 import pyautogui,time
 pyautogui.FAILSAFE = False
-
 def keepAwake():
     pyautogui.press('f22') #simple keyboard move which keeps screen awake by pressing hotkey every 59 seconds
     time.sleep(60)
 while True:
     keepAwake()
-
-    
 #keepAwakeSqaure function will make a square movement in cursor every 59 seconds similar to keepAwake Function
 #uncomment the lines to use keepAwakeSqaure
-
-    
 '''
 def keepAwakeSqaure():#this will make a square movement in cursor every 59 seconds
     for i in range(10):
